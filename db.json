@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "anas",
+      "lastName": "",
+      "emailAdress": "",
+      "salary": "benyaiche",
+      "mobile": "benyaiche"
+    },
+    {
+      "id": 3,
+      "firstName": "test",
+      "lastName": "",
+      "emailAdress": "",
+      "salary": "test",
+      "mobile": "test"
+    },
+    {
+      "id": 4,
+      "firstName": "anas",
+      "lastName": "",
+      "salary": "benyaiche",
+      "mobile": "test"
+    },
+    {
+      "id": 5,
+      "firstName": "anas",
+      "lastName": "benyaiche",
+      "salary": "test",
+      "mobile": "test"
+    },
+    {
+      "id": 6,
+      "firstName": "anas",
+      "lastName": "benyaiche",
+      "salary": "test",
+      "mobile": "test"
+    },
+    {
+      "id": 8,
+      "firstName": "Anas",
+      "lastName": "Ben Yaiche",
+      "salary": "100,0000",
+      "mobile": "21232214"
+    },
+    {
+      "id": 9,
+      "firstName": "Zina",
+      "lastName": "Bessaoud",
+      "salary": "100,0000",
+      "mobile": "56237005"
+    }
+  ],
+  "signupusers": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

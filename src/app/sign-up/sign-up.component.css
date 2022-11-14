@@ -1,0 +1,18 @@
+.card {
+  border: none;
+  width: 500px;
+  padding: 40px;
+  position: absolute;
+  top: 10%;
+  left: 35%;
+  transform: tarnslate(-50%, -50%);
+  background: hsla(205, 46%, 30%, 1);
+}
+
+.card h1,
+h6 {
+  color: bisque;
+}
+label {
+  color: azure;
+}
